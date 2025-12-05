@@ -1458,6 +1458,9 @@
         <mxCell id="zHOCzMtH7c1A0UGHdyn--467" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="10" x="310.78" y="4140" as="geometry" />
         </mxCell>
+        <mxCell id="zHOCzMtH7c1A0UGHdyn--490" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" value="Sửa dịch vụ phòng" vertex="1">
+          <mxGeometry height="720" width="820" x="0.37000000000000455" y="4560" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
