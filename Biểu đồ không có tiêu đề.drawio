@@ -365,17 +365,17 @@
             <mxPoint x="39" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHOCzMtH7c1A0UGHdyn--139" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.88;entryY=0.873;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.18;exitY=0.898;exitDx=0;exitDy=0;exitPerimeter=0;">
+        <mxCell id="zHOCzMtH7c1A0UGHdyn--139" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.88;entryY=0.873;entryDx=0;entryDy=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="503.15" y="1385.25" />
+              <mxPoint x="502.04999999999995" y="1390.26" />
             </Array>
-            <mxPoint x="502.7199999999999" y="1380" as="sourcePoint" />
-            <mxPoint x="307.94999999999993" y="1384.9899999999998" as="targetPoint" />
+            <mxPoint x="508.9" y="1390.01" as="sourcePoint" />
+            <mxPoint x="306.8499999999999" y="1389.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zHOCzMtH7c1A0UGHdyn--140" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;15: Trả về cập nhật không thành công ()&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="200" x="305.37" y="1350" as="geometry" />
+          <mxGeometry height="40" width="200" x="307.63" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="zHOCzMtH7c1A0UGHdyn--141" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.789;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" target="_OFlpRXd6N1md0zE7y6J-186">
           <mxGeometry relative="1" as="geometry">
@@ -383,8 +383,8 @@
             <mxPoint x="70" y="1409" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zHOCzMtH7c1A0UGHdyn--142" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;16: Hiển thị thông báo cập nhật phòng không thành công ()&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="140" x="71.15" y="1380" as="geometry" />
+        <mxCell id="zHOCzMtH7c1A0UGHdyn--142" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;16: Hiển thị thông báo cập nhật không thành công ()&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="66.15" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="zHOCzMtH7c1A0UGHdyn--143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="80" width="10" x="505.37" y="920" as="geometry" />
