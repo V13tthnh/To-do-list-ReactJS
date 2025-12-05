@@ -1234,15 +1234,15 @@
         <mxCell id="zHOCzMtH7c1A0UGHdyn--414" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="661.17" y="4250.0599999999995" />
-              <mxPoint x="661.17" y="4250.0599999999995" />
+              <mxPoint x="661.17" y="4259.469999999999" />
+              <mxPoint x="661.17" y="4259.469999999999" />
             </Array>
-            <mxPoint x="726.17" y="4250.0599999999995" as="sourcePoint" />
-            <mxPoint x="515.78" y="4250" as="targetPoint" />
+            <mxPoint x="726.17" y="4259.469999999999" as="sourcePoint" />
+            <mxPoint x="515.78" y="4259.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zHOCzMtH7c1A0UGHdyn--415" connectable="0" parent="1" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="11. Trả về loại&amp;nbsp;phòng đã cập nhật ()" vertex="1">
-          <mxGeometry x="625.78" y="4240" as="geometry" />
+          <mxGeometry x="625" y="4250" as="geometry" />
         </mxCell>
         <mxCell id="zHOCzMtH7c1A0UGHdyn--416" edge="1" parent="1" source="zHOCzMtH7c1A0UGHdyn--397" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.96;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;" target="zHOCzMtH7c1A0UGHdyn--406">
           <mxGeometry relative="1" as="geometry">
