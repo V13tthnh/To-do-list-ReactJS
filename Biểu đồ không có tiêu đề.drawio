@@ -2695,7 +2695,7 @@
             <mxPoint x="520" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vtXm0BNYzQmAlE-sHq4-115" parent="8vtXm0BNYzQmAlE-sHq4-110" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Nhập tên phòng, chọn loại phòng, chọn trạng thái" vertex="1">
+        <mxCell id="8vtXm0BNYzQmAlE-sHq4-115" parent="8vtXm0BNYzQmAlE-sHq4-110" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Nhập tên dịch vụ, đơn giá, giảm giá, chọn hiển thị" vertex="1">
           <mxGeometry height="40" width="160" x="80" y="200" as="geometry" />
         </mxCell>
         <mxCell id="8vtXm0BNYzQmAlE-sHq4-116" edge="1" parent="8vtXm0BNYzQmAlE-sHq4-110" source="8vtXm0BNYzQmAlE-sHq4-115" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
@@ -2715,7 +2715,7 @@
             <mxRectangle height="30" width="90" x="400" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vtXm0BNYzQmAlE-sHq4-119" parent="8vtXm0BNYzQmAlE-sHq4-118" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Gửi về màn hình thêm mới" vertex="1">
+        <mxCell id="8vtXm0BNYzQmAlE-sHq4-119" parent="8vtXm0BNYzQmAlE-sHq4-118" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Gửi về màn hình sửa dịch vụ phòng" vertex="1">
           <mxGeometry height="40" width="160" x="120" y="120" as="geometry" />
         </mxCell>
         <mxCell id="8vtXm0BNYzQmAlE-sHq4-120" edge="1" parent="8vtXm0BNYzQmAlE-sHq4-118" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; no">
@@ -2729,7 +2729,7 @@
             <mxPoint x="148.5" y="379.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vtXm0BNYzQmAlE-sHq4-121" parent="8vtXm0BNYzQmAlE-sHq4-118" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Nhận tên phòng, loại phòng, trạng thái" vertex="1">
+        <mxCell id="8vtXm0BNYzQmAlE-sHq4-121" parent="8vtXm0BNYzQmAlE-sHq4-118" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" value="Nhận tên dịch vụ, đơn giá, giảm giá, hiển thị" vertex="1">
           <mxGeometry height="40" width="160" x="188.5" y="280" as="geometry" />
         </mxCell>
         <mxCell id="8vtXm0BNYzQmAlE-sHq4-122" edge="1" parent="8vtXm0BNYzQmAlE-sHq4-118" source="8vtXm0BNYzQmAlE-sHq4-121" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
@@ -2775,12 +2775,12 @@
             <mxPoint x="90" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8vtXm0BNYzQmAlE-sHq4-131" edge="1" parent="1" source="8vtXm0BNYzQmAlE-sHq4-119" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" value="">
+        <mxCell id="8vtXm0BNYzQmAlE-sHq4-131" edge="1" parent="1" source="8vtXm0BNYzQmAlE-sHq4-119" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="573" y="3660" />
             </Array>
-            <mxPoint x="213" y="3660" as="targetPoint" />
+            <mxPoint x="240" y="3660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8vtXm0BNYzQmAlE-sHq4-132" edge="1" parent="1" source="8vtXm0BNYzQmAlE-sHq4-117" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8vtXm0BNYzQmAlE-sHq4-121" value="">
