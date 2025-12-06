@@ -2070,10 +2070,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pIBrdjh-NqwlGJDWeGTu-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
+        <mxCell id="pIBrdjh-NqwlGJDWeGTu-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Người dùng" vertex="1">
           <mxGeometry height="600" width="400" as="geometry" />
         </mxCell>
-        <mxCell id="pIBrdjh-NqwlGJDWeGTu-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
+        <mxCell id="pIBrdjh-NqwlGJDWeGTu-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Hệ thống" vertex="1">
           <mxGeometry height="600" width="400" x="400" as="geometry" />
         </mxCell>
       </root>
